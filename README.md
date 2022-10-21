@@ -22,6 +22,9 @@ Create the linearRegression model and predict the output
 
 ## Program:
 ``` PYTHON
+#Program for Multivariate linear regression using the least squares method.
+#Developed by: SASI RAJ KUMAR TJ
+#RegisterNumber: 22005240
 import pandas as pd
 from sklearn import linear_model
 data=pd.read_csv("cars.csv")
